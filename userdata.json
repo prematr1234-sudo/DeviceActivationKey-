@@ -27,5 +27,12 @@
         "expirydate": "15-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "42777e4104344fa9",
+        "username": "user6",
+        "password": "MTa123",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
 
 ]
