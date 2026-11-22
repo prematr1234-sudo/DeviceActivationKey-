@@ -42,5 +42,13 @@
         "expirydate": "15-10-2027",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "3d258d0582a467cc",
+        "username": "user8",
+        "password": "User123",
+        "expirydate": "15-10-2027",
+        "Allowoffline": false
+    },
 
 ]
